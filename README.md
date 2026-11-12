@@ -65,3 +65,7 @@ Complaints are consumer reports, not verified facts; counts are not rates (no de
 ## Data source and attribution
 
 Consumer Complaints on Financial Products and Services (Bank of America, 2017–2023), provided by the Consumer Financial Protection Bureau (CFPB) via AnalystLab Africa. The data contains no names, narratives or personal identifiers; only the consumer's state is recorded. This project is not an official CFPB or Bank of America product.
+
+## Author 
+
+Shammah Ndubuisi
